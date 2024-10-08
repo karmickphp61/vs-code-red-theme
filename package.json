@@ -1,8 +1,8 @@
 {
   "name": "vs-code-red-theme",
-	"displayName": "VS Code Dark Red Theme",
+  "displayName": "VS Code Dark Red Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "vs-code-red-theme",
   "repository": {
     "type": "git",
