@@ -3,7 +3,11 @@
 	"displayName": "VS Code Dark Red Theme",
   "description": "",
   "version": "0.0.1",
-  "publisher": "Kailash Shaw",
+  "publisher": "vs-code-red-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmickphp61/vs-code-red-theme"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },
