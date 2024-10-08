@@ -1,0 +1,22 @@
+{
+  "name": "vs-code-red-theme",
+	"displayName": "VS Code Dark Red Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "Kailash Shaw",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kailash Shaw",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kailash Shaw-color-theme.json"
+      }
+    ]
+  }
+}
