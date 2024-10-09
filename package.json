@@ -3,11 +3,27 @@
   "displayName": "VS Code Dark Red Theme",
   "description": "",
   "version": "0.2.0",
+  "author": {
+		"name": "Kailash Shaw",
+		"url": "https://github.com/karmickphp61/"
+	},
+	"icon": "img/theme.png",
+	"keywords": [
+		"vs-code-red-theme",
+		"vsdark",
+		"vsdark red theme",
+		"red theme",
+		"Kailash Shaw"
+	],
   "publisher": "vs-code-red-theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/karmickphp61/vs-code-red-theme"
   },
+  "scripts": {
+		"login": "vsce login vs-code-red-theme",
+		"publish": "vsce publish"
+	},
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -19,7 +35,7 @@
       {
         "label": "Kailash Shaw",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kailash Shaw-color-theme.json"
+        "path": "./themes/vscode-dark-color-theme.json"
       }
     ]
   }
